@@ -1,5 +1,6 @@
 import websiteImg1 from '../assets/Todo App.png';
 import websiteImg2 from '../assets/Portfolio.png';
+import websiteImg3 from '../assets/Pizza order.png';
 
 export default function Projects() {
 
@@ -14,6 +15,11 @@ export default function Projects() {
                 image: websiteImg2,
                 description: 'My Prortfolio Application, Built with React Js',
                 link: 'https://github.com/Maheswari-BaskaranS/Maheswari-Portfolio.git'
+            },
+            {
+                image: websiteImg3,
+                description: 'Pizza ordering Application, Built with React Js',
+                link: 'https://github.com/Maheswari-BaskaranS/React-Pizza-order-app.git'
             }
         ]
     }
