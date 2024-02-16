@@ -9,17 +9,17 @@ export default function Projects() {
             {
                 image: websiteImg1,
                 description: 'An application specially built to keep track of errands or tasks that need to be done.',
-                link: 'https://github.com/Maheswari-BaskaranS/React_Todo_List.git'
+                link: 'https://calm-cannoli-4d6d5b.netlify.app/'
             },
             {
                 image: websiteImg2,
-                description: 'My Prortfolio Application, Built with React Js',
-                link: 'https://github.com/Maheswari-BaskaranS/Maheswari-Portfolio.git'
+                description: 'My Portfolio Application, Built with React Js',
+                link: 'https://65cf14a8b125228e6444a64f--zingy-entremet-474f07.netlify.app/'
             },
             {
                 image: websiteImg3,
                 description: 'Pizza ordering Application, Built with React Js',
-                link: 'https://github.com/Maheswari-BaskaranS/React-Pizza-order-app.git'
+                link: 'https://65cf22716f188398e8d847f7--amazing-pastelito-13b4b8.netlify.app/'
             }
         ]
     }
