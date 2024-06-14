@@ -3,7 +3,7 @@ import AboutImg from '../assets/about.png';
 export default function About () {
     const config  = {
         line1: 'Hi, My name is Maheswari B. I am a Software developer. I built beautiful Websites with React.js, SpringBoot and Node',
-        line2: 'I am proficient with skills like React.js, Redux, Node, SpringBoot, NXQL and many more.'
+        line2: 'I am proficient with skills like HTML, CSS, React.js, Redux, SpringBoot, NXQL and many more.'
     }
 
     return <section className='flex flex-col md:flex-row bg-secondary px-5' id='about'>

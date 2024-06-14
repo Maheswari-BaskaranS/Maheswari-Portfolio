@@ -2,7 +2,7 @@ import ResumeImg from '../assets/resume.png';
 
 export default function Resume () {
     const config = {
-        link: 'http://tinyurl.com/4un5nh46'
+        link: 'https://tinyurl.com/vkryc52x'
     }
 
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5'>
