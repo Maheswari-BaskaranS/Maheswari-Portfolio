@@ -1,5 +1,5 @@
 import HeroImg from '../assets/hero.png';
-import { AiOutlineTwitter, AiOutlineFacebook, AiOutlineLinkedin } from "react-icons/ai";
+import { AiOutlineLinkedin } from "react-icons/ai";
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 export default function Hero() {
@@ -22,6 +22,6 @@ export default function Hero() {
                 <a href={config.social.github} className='hover:text-white'><GitHubIcon style={{width:"100px", height:"40px", paddingRight:"20px"}}/></a>
             </div>
        </div>
-       <img className='md:w-1/3' src={HeroImg} />
+       <img className='md:w-1/3'alt='HeroImg' src={HeroImg} />
     </section>
 }

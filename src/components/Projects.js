@@ -35,7 +35,7 @@ export default function Projects() {
             <div className='flex flex-col md:flex-row px-20 gap-5'>
                 {config.projects.map((project) => (
                      <div className='relative'>
-                        <img className='h-[200px] w-[500px]' src={project.image}/>
+                        <img className='h-[200px] w-[500px]' alt='Projectimg' src={project.image}/>
                         <div className='project-desc'>
                             <p className='text-center px-5 py-5'>{project.description}</p>
                             <div className='flex justify-center'>
